@@ -1,6 +1,6 @@
 # Teaching Git
 
-This is a sample repository to practice using git, as kindly explained by pahoobe.
+This is a sample repository for the DHS Computer Science Club to practice using git, as kindly explained by pahoobe.
 
 If you have any questions, feel free to contact her.
 
