@@ -71,6 +71,7 @@ First, you'll want to know what branches are available in your working directory
 ```shell
 git branch
   develop
+  feature_x
   master
 ```
 
@@ -78,6 +79,7 @@ Now, you can easily switch between branches with `git switch`:
 ```shell
 git switch master
 git switch develop
+git switch feature_x
 git config --global alias.sw 'switch'
 git sw master
 ```
